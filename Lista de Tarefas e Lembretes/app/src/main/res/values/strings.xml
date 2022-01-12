@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Lista de Tarefas e Lembretes</string>
-	<string name="Tarefas">Tarefas</string>
+	<string name="tarefas">Tarefas</string>
 </resources>
