@@ -4,10 +4,10 @@
     android:width="100dp"
     android:height="100dp">
     <path
-        android:pathData="M47 29L54 29L54 47L72 47L72 54L54 54L54 72L47 72L47 54L29 54L29 47L47 47L47 29Z"
+        android:pathData="M46 21L53.5 21L54 21.5L54 46L78.5 46L79 46.5L79 54L54 54L54 78.5L53.5 79L46 79L46 54L21.5 54L21 53.5L21 46L46 46L46 21Z"
         android:fillColor="#000000"
-        android:fillAlpha="0.8352941"
+        android:fillAlpha="0.8901961"
         android:strokeColor="#000000"
-        android:strokeAlpha="0.8352941"
+        android:strokeAlpha="0.8901961"
         android:strokeWidth="1" />
 </vector>
