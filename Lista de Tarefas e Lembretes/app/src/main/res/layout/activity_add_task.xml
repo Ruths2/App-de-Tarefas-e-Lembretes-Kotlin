@@ -101,6 +101,28 @@
 			
 	</com.google.android.material.textfield.TextInputLayout>
 		
-	
+	<com.google.android.material.button.MaterialButton
+		android:id="@+id/btn_cancel"
+		android:layout_width="0dp"
+        android:layout_height="wrap_content"
+		android:layout_marginBottom="16dp"
+		android:text="Cancelar"
+		android:textAllCaps="false"
+		style="@style/Widget.MaterialComponents.Button.OutLinedButton"
+		app:layout_constraintStart_toStartOf="@id/guide_start"
+		app:layout_constraintEnd_toEndOf="@id/guide_end"
+		app:layout_constraintTop_toBottomOf="@id/btn_new_task" />
+		
+	<com.google.android.material.button.MaterialButton
+		android:id="@+id/btn_new_task"
+		android:layout_width="0dp"
+        android:layout_height="wrap_content"
+		android:layout_marginBottom="16dp"
+		android:text="Criar Tarefa"
+		android:textAllCaps="false"
+		style="@style/Widget.MaterialComponents.Button"
+		app:layout_constraintStart_toStartOf="@id/guide_start"
+		app:layout_constraintEnd_toEndOf="@id/guide_end"
+		app:layout_constraintTop_toBottomOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
