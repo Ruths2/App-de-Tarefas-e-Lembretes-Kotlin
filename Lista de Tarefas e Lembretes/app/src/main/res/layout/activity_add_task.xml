@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent"
         app:navigationIcon="@drawable/ic_navigate_button"
-        app:title="Criar Tarefa" />
+        app:title="@string/titulo_criar_tarefa" />
 		
 	<androix.constraintlayout.widget.GuideLine
 		android:id="@+id/guide_start"
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
 		style="@style/Widget.MaterialComponents.TextInputLayout.OutLinedBox"
 		android:layout_marginTop="16dp"
-		android:hint="Título"
+		android:hint="@string/hint_titulo"
 		app:layout_constraintStart_toStartOf="@id/guide_start"
 		app:layout_constraintEnd_toEndOf="@id/guide_end"
 		app:layout_constraintTop_toBottomOf="@id/tollbar" >
@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
 		style="@style/Widget.MaterialComponents.TextInputLayout.OutLinedBox"
 		android:layout_marginTop="8dp"
-		android:hint="Descrição"
+		android:hint="@string/hint_descricao"
 		app:layout_constraintStart_toStartOf="@id/guide_start"
 		app:layout_constraintEnd_toEndOf="@id/guide_end"
 		app:layout_constraintTop_toBottomOf="@id/til_title" >
@@ -68,7 +68,7 @@
 		style="@style/Widget.MaterialComponents.TextInputLayout.OutLinedBox"
 		android:layout_marginTop="8dp"
 		android:layout_marginEnd="16dp"
-		android:hint="Data"
+		android:hint="@string/hint_data"
 		app:startIconDrawable="@drawable/ic_calendar"
 		app:layout_constraintStart_toStartOf="@id/guide_start"
 		app:layout_constraintEnd_toStartOf="@id/til_hour"
@@ -87,7 +87,7 @@
 		android:layout_width="0dp"
         android:layout_height="wrap_content"
 		style="@style/Widget.MaterialComponents.TextInputLayout.OutLinedBox"
-		android:hint="Hora"
+		android:hint="@string/hint_hour"
 		app:startIconDrawable="@drawable/ic_timer"
 		app:layout_constraintStart_toEndOf="@id/til_date"
 		app:layout_constraintEnd_toEndOf="@id/guide_end"
@@ -106,7 +106,7 @@
 		android:layout_width="0dp"
         android:layout_height="wrap_content"
 		android:layout_marginBottom="16dp"
-		android:text="Cancelar"
+		android:text="@string/botao_cancelar"
 		android:textAllCaps="false"
 		style="@style/Widget.MaterialComponents.Button.OutLinedButton"
 		app:layout_constraintStart_toStartOf="@id/guide_start"
@@ -118,7 +118,7 @@
 		android:layout_width="0dp"
         android:layout_height="wrap_content"
 		android:layout_marginBottom="16dp"
-		android:text="Criar Tarefa"
+		android:text="@string/botao_criar_tarefas"
 		android:textAllCaps="false"
 		style="@style/Widget.MaterialComponents.Button"
 		app:layout_constraintStart_toStartOf="@id/guide_start"

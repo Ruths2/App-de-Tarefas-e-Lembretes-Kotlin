@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Lista de Tarefas e Lembretes</string>
 	<string name="tarefas">Tarefas</string>
+	<string name="titulo_criar_tarefa">Criar Tarefa</string>
+	<string name="hint_titulo">Título</string>
+	<string name="hint_descricao">Descrição</string>
+	<string name="hint_data">Data</string>
+	<string name="hint_hour">Hora</string>
+	<string name="botao_cancelar">Cancelar</string>
+	<string name="botao_criar_tarefas">Criar tarefa</string>
+	
 </resources>
