@@ -7,6 +7,6 @@ Projeto aplicativo de Tarefas e Lembretes em kotlin.
 
 ### Assim que Deus me preparar um notebook ou um computador, voltarei no app para testar e fazer várias alterações .😁🛠️
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Krj9Fvq/e5cd7ab5fee55dac19a31c3796f50b890f623f173bf6fa0771398be555f81e78-0.png" alt="e5cd7ab5fee55dac19a31c3796f50b890f623f173bf6fa0771398be555f81e78-0" border="0" /></a>
+<a href="https://imgbb.com/"><img height= "200" src="https://i.ibb.co/Krj9Fvq/e5cd7ab5fee55dac19a31c3796f50b890f623f173bf6fa0771398be555f81e78-0.png" alt="e5cd7ab5fee55dac19a31c3796f50b890f623f173bf6fa0771398be555f81e78-0" border="0" /></a>
 
 
